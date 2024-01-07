@@ -12,9 +12,34 @@
     - [DISTANCIA INTERQUARTIL (MEDIDA DE DISPERSÃO)](#distancia-interquartil-medida-de-dispersão)
     - [VARIÂNCIA POPULACIONAL OU DESVIO QUADRÁTICO MÉDIO POPULACIONAL (MEDIDA DE DISPERSÃO)](#variância-populacional-ou-desvio-quadrático-médio-populacional-medida-de-dispersão)
     - [VARIÂNCIA AMOSTRAL OU DESVIO QUADRÁTICO MÉDIO AMOSTRAL (MEDIDA DE DISPERSÃO)](#variância-amostral-ou-desvio-quadrático-médio-amostral-medida-de-dispersão)
+    - [COEFICIENTE DE CORRELAÇÃO DE PEARSON (R)](#coeficiente-de-correlação-de-pearson-r)
+    - [COEFICIENTE DE CORRELAÇÃO DE SPEARMAN (Ρ OU RS)](#coeficiente-de-correlação-de-spearman-ρ-ou-rs)
+    - [COEFICIENTE DE CORRELAÇÃO DE KENDALL (Τ OU TAU)](#coeficiente-de-correlação-de-kendall-τ-ou-tau)
+    - [COEFICIENTE DE CORRELAÇÃO DE POINT-BISERIAL](#coeficiente-de-correlação-de-point-biserial)
+    - [COEFICIENTE DE CORRELAÇÃO DE CRAMER'S V](#coeficiente-de-correlação-de-cramers-v)
+    - [COEFICIENTE DE CORRELAÇÃO DE BISERIAL](#coeficiente-de-correlação-de-biserial)
+    - [COEFICIENTE DE CORRELAÇÃO PARCIAL](#coeficiente-de-correlação-parcial)
+    - [DISTRIBUIÇÃO NORMAL](#distribuição-normal)
+    - [VARIÁVEIS QUANTITATIVAS](#variáveis-quantitativas)
+      - [VARIÁVEIS CONTÍNUA](#variáveis-contínua)
+      - [VARIÁVEIS DISCRETA](#variáveis-discreta)
+    - [VARIÁVEIS QUALITATIVAS](#variáveis-qualitativas)
+      - [VARIÁVEIS NOMINAIS](#variáveis-nominais)
+      - [VARIÁVEIS ORDINAIS](#variáveis-ordinais)
+    - [TESTE T](#teste-t)
+    - [TESTE PARAMÉTRICO](#teste-paramétrico)
+    - [TESTE NÃO PARAMÉTRICO](#teste-não-paramétrico)
+    - [REGRESSÃO](#regressão)
+    - [ANOVA](#anova)
+    - [VARIÁVEL ALEATÓRIA](#variável-aleatória)
+    - [COVARIÂNCIA AMOSTRAL](#covariância-amostral)
+    - [COVARIÂNCIA POPULACIONAL](#covariância-populacional)
   - [OBSERVAÇÕES](#observações)
+  - [ESTATÍSTICA DESCRITIVA](#estatística-descritiva)
+  - [ESTATISTICA BAYESIANA](#estatistica-bayesiana)
     - [MEDIDAS DE POSIÇÃO (MÉDIA, MEDIANA, MODA) NÃO SÃO SUFICIENTES PARA A REALIZAÇÃO DE UMA ANÁLISE ESTATÍSTICA](#medidas-de-posição-média-mediana-moda-não-são-suficientes-para-a-realização-de-uma-análise-estatística)
     - [A AMPLITUDE NÃO É A MELHOR ESCOLHA PARA MEDIR A DISPERSÃO DE UMA AMOSTRA](#a-amplitude-não-é-a-melhor-escolha-para-medir-a-dispersão-de-uma-amostra)
+    - [É IMPORTANTE TESTAR SE OS DADOS POSSUEM DISTRIBUIÇÃO NORMAL](#é-importante-testar-se-os-dados-possuem-distribuição-normal)
 
 ## EXPLICAÇÃO DE TERMOS
 
@@ -45,6 +70,7 @@
     A mediana é uma medida de tendência central versátil e fácil de interpretar, que pode ser usada em uma variedade de aplicações. 
 
 ### AMPLITUDE (MEDIDA DE DISPERSÃO)
+
     Em estatística, a amplitude é uma medida de dispersão que representa a distância entre o maior e o menor valor de um conjunto de dados. Ela é calculada da seguinte forma:
 
     Amplitude = maior valor - menor valor
@@ -147,7 +173,55 @@
 
     O tamanho da amostra afeta a precisão da variância amostral. Quanto maior a amostra, mais precisa será a variância amostral.
 
+### COEFICIENTE DE CORRELAÇÃO DE PEARSON (R)
+
+### COEFICIENTE DE CORRELAÇÃO DE SPEARMAN (Ρ OU RS)
+
+### COEFICIENTE DE CORRELAÇÃO DE KENDALL (Τ OU TAU)
+
+### COEFICIENTE DE CORRELAÇÃO DE POINT-BISERIAL
+
+### COEFICIENTE DE CORRELAÇÃO DE CRAMER'S V
+
+### COEFICIENTE DE CORRELAÇÃO DE BISERIAL
+
+### COEFICIENTE DE CORRELAÇÃO PARCIAL
+
+### DISTRIBUIÇÃO NORMAL
+
+### VARIÁVEIS QUANTITATIVAS
+
+#### VARIÁVEIS CONTÍNUA
+
+#### VARIÁVEIS DISCRETA
+
+### VARIÁVEIS QUALITATIVAS
+
+#### VARIÁVEIS NOMINAIS
+
+#### VARIÁVEIS ORDINAIS
+
+### TESTE T
+
+### TESTE PARAMÉTRICO
+
+### TESTE NÃO PARAMÉTRICO
+
+### REGRESSÃO
+
+### ANOVA
+
+### VARIÁVEL ALEATÓRIA
+
+### COVARIÂNCIA AMOSTRAL
+
+### COVARIÂNCIA POPULACIONAL
+
 ## OBSERVAÇÕES
+
+## ESTATÍSTICA DESCRITIVA
+
+## ESTATISTICA BAYESIANA
 
 ### MEDIDAS DE POSIÇÃO (MÉDIA, MEDIANA, MODA) NÃO SÃO SUFICIENTES PARA A REALIZAÇÃO DE UMA ANÁLISE ESTATÍSTICA  
 
@@ -159,3 +233,4 @@
 
 ### A AMPLITUDE NÃO É A MELHOR ESCOLHA PARA MEDIR A DISPERSÃO DE UMA AMOSTRA
 
+### É IMPORTANTE TESTAR SE OS DADOS POSSUEM DISTRIBUIÇÃO NORMAL
